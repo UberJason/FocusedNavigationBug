@@ -10,3 +10,7 @@ pushing another screen, presenting another sheet, and then dismissing it. I know
 
 Expected: dismisses the second sheet back to Detail Screen.
 Actual: application hangs, CPU goes to 100% and memory usage grows infinitely.
+
+<video>
+  <source src="https://github.com/UberJason/FocusedNavigationBug/blob/main/FocusedNavigationBug.mov" type="video/mp4">
+</video>
