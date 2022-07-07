@@ -70,6 +70,7 @@ struct ManageRemindersView: View {
                 .navigationTitle("Second Sheet")
             }
         }
+        .navigationTitle("Detail Screen")
     }
 }
 
